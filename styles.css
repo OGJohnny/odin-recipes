@@ -1,0 +1,26 @@
+body {
+    padding-left: 100px;
+    background-color: rgb(224, 223, 223);
+}
+
+img {
+    height: auto;
+    width: 750px;
+}
+
+h1 {
+    font-size: 65px;
+    width: 800px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+p,
+ul,
+ol {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    width: 750px;
+}
